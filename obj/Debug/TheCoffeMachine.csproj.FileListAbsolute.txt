@@ -1,0 +1,6 @@
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.csprojAssemblyReference.cache
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.exe.config
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.exe
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.pdb
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.exe
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.pdb
